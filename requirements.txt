@@ -1,0 +1,17 @@
+torch
+torchvision
+timm
+Pillow
+opencv-python-headless
+numpy
+joblib
+xgboost
+pandas
+PyWavelets
+scipy
+scikit-image
+scikit-learn
+streamlit
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
